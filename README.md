@@ -16,4 +16,4 @@ Create an Hr dashboard that only looked into the attrition in the organization.
 
 ## Dashboard
 
-
+![dashnoard_page_1](https://github.com/user-attachments/assets/d70cb68b-de40-4353-b56f-b4c16db0ef6d)
